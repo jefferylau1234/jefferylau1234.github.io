@@ -1,6 +1,6 @@
 # Data Structure Project:
 # For each stock, you should store three fields: ID, Price and Volume
-# So each stock is an object and have those three attributes in its constructor
+# So each stock is an object and have those three fields in its constructor
 
 # Base on the time complexity limitations, here are the reasons about what implements which structure:
 # • lookup-by-id(x): O(1) expected time --------> Hash table with a good hash function can do it perfectly: Query cost expected O(1)
